@@ -13,7 +13,9 @@
     <groupId>com.yourcodereview.java01</groupId>
     <artifactId>YourPersonalFinancesBot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
     <name>YourPersonalFinancesBot</name>
+
     <description>Telegram bot to track your personal finances</description>
 
     <properties>
